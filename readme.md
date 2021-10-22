@@ -7,7 +7,7 @@
     - when customer arrives, the customer knocks on the door, he makes request, you receive order, you serve order
     - your business is good until there's malicious mobs hired by the rival shop across the street
 3. types of DDOS attacks
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.mazebolt.com%2Fthe-ddos-gap&psig=AOvVaw28jObOKVKqAFAe2CBqQLFS&ust=1634961787492000&source=images&cd=vfe&ved=2ahUKEwik8OS1kd3zAhWDoekKHVfMCBYQjRx6BAgAEAk
+https://blog.mazebolt.com/hs-fs/hubfs/Imported_Blog_Media/Figure-1-DDoS-Attack-by-OSI-layer-and-Attack-Type.jpg?width=1200&height=362&name=Figure-1-DDoS-Attack-by-OSI-layer-and-Attack-Type.jpg
 - HTTP Flood
 - UDP Flood
 - TCP ACK/SYN/RST/XMAS Flood
