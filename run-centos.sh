@@ -1,0 +1,1 @@
+docker run -d -it --privileged -p 8888:8888 chapter-ddos-centos /usr/sbin/init

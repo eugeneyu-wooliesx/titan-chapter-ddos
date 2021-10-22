@@ -1,0 +1,1 @@
+docker run -d -it kalilinux/kali-rolling /bin/bash
